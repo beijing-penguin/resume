@@ -42,6 +42,11 @@
             "name": "参加武汉简寻科技北京人才交流峰会",
             "name_link": "http://wuyiuniversity.github.io/",
             "description": "武汉简寻创业团队来北京组织的一场人才交流与技术分享大会"
+        },
+        {
+            "name": "自主研发轻量级数据库操作api",
+            "name_link": "https://github.com/beijing-penguin/Myjdbc",
+            "description": "业余时间封装了jdbc对数据库的操作，非常方便日常数据处理与项目开发。"
         }
     ],
     "InternExperiences": [
