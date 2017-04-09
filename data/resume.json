@@ -41,7 +41,7 @@
         {
             "name": "参加武汉简寻科技北京人才交流峰会",
             "name_link": "http://wuyiuniversity.github.io/",
-            "description": "武汉简寻创业团队来北京组织的一场人才交流已经技术分享大会"
+            "description": "武汉简寻创业团队来北京组织的一场人才交流与技术分享大会"
         }
     ],
     "InternExperiences": [
@@ -57,47 +57,47 @@
         {
             "name": "北京沐众科技有限公司（中国支付网）",
             "name_link": "http://paynews.net/portal.php",
-            "title": "PHP开发工程师",
+            "title": "java软件工程师",
             "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
+            "description": "负责公司软件开发，参与制定支付业务系统架构讨论。负责国家支付检查机构支付牌照认证过检。",
+            "time": "2015.03 - 2015.09",
+            "location": "北京"
         }
     ],
     "ProjectExperience": [
         {
-            "name": "ETips",
-            "name_link": "http://etips.github.io/",
-            "title": "Android App, 作者",
-            "icon": "",
-            "description": "五邑大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
-            "location": ""
-        },
-        {
-            "name": "东莞技能培训中心",
+            "name": "用户中心单点登录系统（基础系统架构组件）",
             "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
-            "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
-            "location": ""
-        },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
             "title": "",
             "icon": "",
-            "description": "",
+            "description": "负责ucenter用户单点登录项目的维护与业务迭代、重构、性能优化等工作。处理过浏览器兼容性问题，开发用户账号信息Excel表格批量导入。负责过对接易学易练、湖北发展网、校本研修平台等产品线的单点登录接入工作。多账户登录逻辑优化。",
+            "time": "2016.03 - 至今",
+            "location": ""
+        },
+        {
+            "name": "斗地主（棋牌类游戏后端）",
+            "name_link": "",
+            "title": "",
+            "icon": "",
+            "description": "负责游戏后台部分业务逻辑模块开发，如奖品兑换，站内信。负责游戏数据分析与统计。",
+            "time": "2015.09 - 2015.12",
+            "location": ""
+        },
+        {
+            "name": "得仕钱包（金融类app）",
+            "name_link": "",
+            "title": "",
+            "icon": "",
+            "description": "担任得仕app后端接口开发，接口，算法，方案等讨论与实现。该项目专注于得仕预付卡支付，水，电，煤等缴费业务。用到核心技术http网络传输RSA加密策略、ca证书加密",
+            "time": "2015.02 - 2015-08",
+            "location": ""
+        },
+        {
+            "name": "您说我办app后端接口（移动服务平台）",
+            "name_link": "",
+            "title": "",
+            "icon": "",
+            "description": "负责app后台接口维护以及其他项目的代码编写工作，优化接口项目的代码，优化tomcat运行环境。该项目是手机app的后台接口项目,主要负责统计，业务逻辑编写，信鸽push消息推送，短信发送等主要功能。spring+mybatis+mysql",
             "time": "",
             "location": ""
         }
