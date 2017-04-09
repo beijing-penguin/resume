@@ -20,52 +20,43 @@
         },
         {
             "type": "home",
-            "link": "http://jayinton.com",
+            "link": "https://beijing-penguin.github.io/resume/build/index.html",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "五邑大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "全国信息化工程师岗位技能证"
         },
         {
-            "name": "第四届蓝桥杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
-        },
-        {
-            "name": "第六届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
-        },
-        {
-            "name": "2013百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "2013华南资讯杯广东省Java程序员竞赛三等奖"
+            "name": "全国计算机专业人才证书"
         }
     ],
     "socialExperiences": [
         {
-            "name": "加入袂卓移动开发工作室",
-            "name_link": "meizhuo.org",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+            "name": "积极参与openresty软件会议",
+            "name_link": "https://openresty.org/cn/",
+            "description": "openresty是一个基于 Nginx 与 Lua 的高性能 Web 平台，其内部集成了大量精良的 Lua 库、第三方模块以及大多数的依赖项。用于方便地搭建能够处理超高并发、扩展性极高的动态 Web 应用、Web 服务和动态网关"
         },
         {
-            "name": "组织3次校内开发者交流会",
+            "name": "参加武汉简寻科技北京人才交流峰会",
             "name_link": "http://wuyiuniversity.github.io/",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+            "description": "武汉简寻创业团队来北京组织的一场人才交流已经技术分享大会"
         }
     ],
     "InternExperiences": [
         {
-            "name": "深圳三分线网络科技有限公司",
-            "name_link": "",
-            "title": "前端开发工程师",
+            "name": "北京尚睿通在线教育",
+            "name_link": "http://www.shangruitong.com/",
+            "title": "java软件工程师",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
+            "description": "在公司技术中心-架构组担任java工程师，负责基础用户中心单点登录系统维护与迭代，账户注册，登录逻辑处理。参与校本研修项目开发",
+            "time": "2016.03 - 2017.04",
+            "location": "北京"
         },
         {
-            "name": "深圳百贝斯网络科技有限公司",
-            "name_link": "",
+            "name": "北京沐众科技有限公司（中国支付网）",
+            "name_link": "http://paynews.net/portal.php",
             "title": "PHP开发工程师",
             "icon": "",
             "description": "基于开源商城系统OpenCart二次开发一外贸商城",
