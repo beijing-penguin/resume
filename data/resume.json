@@ -2,35 +2,20 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "唐杰英",
+        "name": "段超",
         "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
-        "profession": "计算机科学与技术",
+        "school": "北京软件职业工程学院",
+        "profession": "软件工程",
         "sex": "男",
-        "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "education" : "大专",
+        "workage": "2014届毕业",
+        "phone": "18600664992",
+        "email": "429544557@qq.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
+            "link": "https://github.com/beijing-penguin",
             "icon": ""
         },
         {
